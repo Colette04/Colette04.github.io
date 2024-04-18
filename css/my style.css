@@ -2,7 +2,8 @@
       color:#F0FFFF;
 }
 
-.expedu_icon:hover{
+.bg-primary
+{ --bs-bg-opacity:var:1;
     background-color:#008B8B;
     color:#FFF8DC;
 }
@@ -11,3 +12,4 @@
     --bs-primary : #5F9EA0;
 }
 
+ 
