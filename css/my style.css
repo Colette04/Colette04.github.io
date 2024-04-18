@@ -1,0 +1,13 @@
+.expedu_icon {
+      color:#F0FFFF;
+}
+
+.expedu_icon:hover{
+    background-color:#008B8B;
+    color:#FFF8DC;
+}
+
+:root {
+    --bs-primary : #5F9EA0;
+}
+
